@@ -1,0 +1,6 @@
+C:\cjmgit\GitConsoleApplication\GitConsoleApplication\bin\Debug\GitConsoleApplication.exe.config
+C:\cjmgit\GitConsoleApplication\GitConsoleApplication\bin\Debug\GitConsoleApplication.exe
+C:\cjmgit\GitConsoleApplication\GitConsoleApplication\bin\Debug\GitConsoleApplication.pdb
+C:\cjmgit\GitConsoleApplication\GitConsoleApplication\obj\Debug\GitConsoleApplication.csprojResolveAssemblyReference.cache
+C:\cjmgit\GitConsoleApplication\GitConsoleApplication\obj\Debug\GitConsoleApplication.exe
+C:\cjmgit\GitConsoleApplication\GitConsoleApplication\obj\Debug\GitConsoleApplication.pdb
